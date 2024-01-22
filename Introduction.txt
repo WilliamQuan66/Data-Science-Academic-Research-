@@ -1,0 +1,11 @@
+Introduction
+
+This research targets the mitigation of class-based label noise in deep learning environments. 
+Leveraging insights from prior studies, it evaluates methods for handling label noise, encompassing techniques
+ for both known and unknown flip rates, as well as approaches for estimating noise rates. The initial phase of 
+the research identifies the prevalence of class-dependent label noise in large datasets, attributing the issue to 
+non-expert annotations and the subjective nature of labeling tasks. The significance of this problem is 
+emphasized due to its detrimental impact on classifier performance in applications such as image classification. 
+The research investigates practical solutions beyond the costly and time-consuming option of expert annotation
+. It proposes a viable methodology for efficiently learning from noisy, class-dependent data, presenting 
+experimental results and suggesting directions for future inquiry.
